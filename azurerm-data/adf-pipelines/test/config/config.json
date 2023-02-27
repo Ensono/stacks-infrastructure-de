@@ -1,0 +1,14 @@
+[
+    {
+        "entity_type": "azure_sql_table",
+        "system": "TestDatabase",
+        "version": 1,
+        "displayName": "Test",
+        "name": "TestTable",
+        "schema": "dbo",
+        "type": "full",
+        "delta": "date_column",
+        "granularity": "day",
+        "server_name": ""
+    }
+]
